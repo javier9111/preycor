@@ -1,7 +1,6 @@
 .banner {
   width: 100%;
-  height: 400px;
-  background-image: url("https://img.vixdata.io/pd/jpg-large/es/sites/default/files/imj/hogartotal/t/tips-para-crear-un-jardin-de-ensuenos-1.jpg");
+  height: 300px;
 }
 .ptitle {
   width: 100%;
@@ -104,4 +103,13 @@
 .colcard {
   padding-left: 7px;
   padding-right: 7px;
+}
+.pictures {
+  max-width: 500px;
+  max-height: 400px;
+  overflow: hidden;
+}
+.pictures img {
+  height: 100%;
+  width: 100%;
 }
