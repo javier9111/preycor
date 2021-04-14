@@ -20,8 +20,9 @@
   font-size: 15px;
 }
 .ptitle {
-  width: 100%;
+  width: 65%;
   height: 45px;
+  overflow: hidden;
 }
 .logo {
   width: auto;
@@ -143,4 +144,7 @@
 }
 .cardsContainer {
   padding: 0;
+}
+.custom-toggler.navbar-toggler {
+  border-color: rgb(196, 194, 194);
 }
