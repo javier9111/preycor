@@ -206,3 +206,19 @@ img.float-sm-left.logo {
     font-size: 0.8rem;
   }
 }
+@media only screen and (min-width: 1200px) {
+  .longText {
+    font-size: 1rem;
+  }
+}
+
+@media only screen and (min-width: 992px) {
+  .longWord {
+    font-size: 0.63rem;
+  }
+}
+@media only screen and (min-width: 1200px) {
+  .longWord {
+    font-size: 0.85rem;
+  }
+}
