@@ -201,7 +201,7 @@ img.float-sm-left.logo {
   padding-bottom: 30px;
 }
 
-@media only screen and (min-width: 993px) {
+@media only screen and (min-width: 992px) {
   .longText {
     font-size: 0.8rem;
   }
